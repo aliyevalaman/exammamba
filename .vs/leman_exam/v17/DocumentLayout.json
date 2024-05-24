@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\models\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\models\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\areas\\manage\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\areas\\manage\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\areas\\manage\\views\\workers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\areas\\manage\\views\\workers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\areas\\manage\\views\\workers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\areas\\manage\\views\\workers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\areas\\manage\\views\\workers\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\areas\\manage\\views\\workers\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Migrations\\20240524044106_createWorkersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leman_exam\\Migrations\\20240524044106_createWorkersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|c:\\users\\ca.r215.13\\desktop\\leman_exam\\leman_exam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEE42F4B-A536-4119-8921-D801A0E085A2}|leman_exam\\leman_exam.csproj|solutionrelative:leman_exam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "leman_exam\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "leman_exam\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:54:05.091Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "leman_exam\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "leman_exam\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:53:52.693Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "leman_exam\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "leman_exam\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAcwE4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:50:26.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Views\\Workers\\Index.cshtml",
+              "RelativeDocumentMoniker": "leman_exam\\Areas\\Manage\\Views\\Workers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Views\\Workers\\Index.cshtml",
+              "RelativeToolTip": "leman_exam\\Areas\\Manage\\Views\\Workers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:07:24.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\ViewModel\\LoginVm.cs",
+              "RelativeDocumentMoniker": "leman_exam\\ViewModel\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\ViewModel\\LoginVm.cs",
+              "RelativeToolTip": "leman_exam\\ViewModel\\LoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:33:16.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "leman_exam\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "leman_exam\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-24T04:43:41.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Workers.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Models\\Workers.cs",
+              "RelativeDocumentMoniker": "leman_exam\\Models\\Workers.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Models\\Workers.cs",
+              "RelativeToolTip": "leman_exam\\Models\\Workers.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:34:09.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "leman_exam\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "leman_exam\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:17:20.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\ViewModel\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "leman_exam\\ViewModel\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\ViewModel\\RegisterVm.cs",
+              "RelativeToolTip": "leman_exam\\ViewModel\\RegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:33:27.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Program.cs",
+              "RelativeDocumentMoniker": "leman_exam\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Program.cs",
+              "RelativeToolTip": "leman_exam\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:16:45.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "leman_exam\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "leman_exam\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:17:33.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\appsettings.json",
+              "RelativeDocumentMoniker": "leman_exam\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\appsettings.json",
+              "RelativeToolTip": "leman_exam\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T04:16:52.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Models\\User.cs",
+              "RelativeDocumentMoniker": "leman_exam\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Models\\User.cs",
+              "RelativeToolTip": "leman_exam\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:36:18.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkersController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Controllers\\WorkersController.cs",
+              "RelativeDocumentMoniker": "leman_exam\\Areas\\Manage\\Controllers\\WorkersController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Controllers\\WorkersController.cs",
+              "RelativeToolTip": "leman_exam\\Areas\\Manage\\Controllers\\WorkersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:52:30.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "leman_exam\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "leman_exam\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:44:47.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "leman_exam\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "leman_exam\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAnwL4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:45:01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Views\\Workers\\Create.cshtml",
+              "RelativeDocumentMoniker": "leman_exam\\Areas\\Manage\\Views\\Workers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Views\\Workers\\Create.cshtml",
+              "RelativeToolTip": "leman_exam\\Areas\\Manage\\Views\\Workers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:07:36.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240524044106_createWorkersTable.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Migrations\\20240524044106_createWorkersTable.cs",
+              "RelativeDocumentMoniker": "leman_exam\\Migrations\\20240524044106_createWorkersTable.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Migrations\\20240524044106_createWorkersTable.cs",
+              "RelativeToolTip": "leman_exam\\Migrations\\20240524044106_createWorkersTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:41:07.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Views\\Workers\\Update.cshtml",
+              "RelativeDocumentMoniker": "leman_exam\\Areas\\Manage\\Views\\Workers\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Views\\Workers\\Update.cshtml",
+              "RelativeToolTip": "leman_exam\\Areas\\Manage\\Views\\Workers\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:07:51.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "leman_exam\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "leman_exam\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:45:53.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "leman_exam\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "leman_exam\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:45:30.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "leman_exam\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "leman_exam\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:32:57.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "leman_exam\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "leman_exam\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAcBAAAAAAAAAADwvw4BAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:30:57.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "leman_exam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\Desktop\\leman_exam\\leman_exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "leman_exam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAF8AAAAAAAAAAADwv7wAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:17:31.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
